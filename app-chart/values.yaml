@@ -1,0 +1,5 @@
+replicatCountWordpress: 1
+serviceWordpress: 
+    type: NodePort
+containers:
+    imageWordpress: wordpress:4.8-apache

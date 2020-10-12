@@ -1,2 +1,3 @@
-# chart-k8s
-chart-deploiement-app-k8s
+# deploiementK8SmultiCloud
+
+Package application pour déploiement AWS
